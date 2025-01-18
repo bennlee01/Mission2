@@ -1,0 +1,14 @@
+/Users/benjaminlee/RiderProjects/BenLeeMission2/BenLeeMission2/bin/Debug/net8.0/BenLeeMission2
+/Users/benjaminlee/RiderProjects/BenLeeMission2/BenLeeMission2/bin/Debug/net8.0/BenLeeMission2.deps.json
+/Users/benjaminlee/RiderProjects/BenLeeMission2/BenLeeMission2/bin/Debug/net8.0/BenLeeMission2.runtimeconfig.json
+/Users/benjaminlee/RiderProjects/BenLeeMission2/BenLeeMission2/bin/Debug/net8.0/BenLeeMission2.dll
+/Users/benjaminlee/RiderProjects/BenLeeMission2/BenLeeMission2/bin/Debug/net8.0/BenLeeMission2.pdb
+/Users/benjaminlee/RiderProjects/BenLeeMission2/BenLeeMission2/obj/Debug/net8.0/BenLeeMission2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjaminlee/RiderProjects/BenLeeMission2/BenLeeMission2/obj/Debug/net8.0/BenLeeMission2.AssemblyInfoInputs.cache
+/Users/benjaminlee/RiderProjects/BenLeeMission2/BenLeeMission2/obj/Debug/net8.0/BenLeeMission2.AssemblyInfo.cs
+/Users/benjaminlee/RiderProjects/BenLeeMission2/BenLeeMission2/obj/Debug/net8.0/BenLeeMission2.csproj.CoreCompileInputs.cache
+/Users/benjaminlee/RiderProjects/BenLeeMission2/BenLeeMission2/obj/Debug/net8.0/BenLeeMission2.dll
+/Users/benjaminlee/RiderProjects/BenLeeMission2/BenLeeMission2/obj/Debug/net8.0/refint/BenLeeMission2.dll
+/Users/benjaminlee/RiderProjects/BenLeeMission2/BenLeeMission2/obj/Debug/net8.0/BenLeeMission2.pdb
+/Users/benjaminlee/RiderProjects/BenLeeMission2/BenLeeMission2/obj/Debug/net8.0/BenLeeMission2.genruntimeconfig.cache
+/Users/benjaminlee/RiderProjects/BenLeeMission2/BenLeeMission2/obj/Debug/net8.0/ref/BenLeeMission2.dll
